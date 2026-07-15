@@ -9,8 +9,8 @@
       srcset="./assets/hero/agent-console-v5-light.svg">
 
     <img
-      src="./assets/hero/agent-console-v5-dark.svg"
       alt="Ibnu Sabrian Hero"
+      src="./assets/hero/agent-console-v5-dark.svg"
       width="100%">
   </picture>
 </p>
