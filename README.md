@@ -1,18 +1,8 @@
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./assets/hero/agent-console-v5-dark.svg">
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./assets/hero/agent-console-v5-light.svg">
-
-    <img
-      alt="Ibnu Sabrian Hero"
-      src="./assets/hero/agent-console-v5-dark.svg"
-      width="100%">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/ibnusab/ibnusab/main/assets/hero/agent-console-v5-dark.svg"
+    alt="Ibnu Sabrian Hero"
+    width="100%">
 </p>
 
 <p align="center">
