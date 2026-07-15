@@ -57,17 +57,7 @@ My current north star is to build and study **trustworthy autonomous systems** t
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-1E293B?style=flat-square&logo=playwright&logoColor=22C55E">
 </p>
 
-## Recent Activity
 
-<!-- AUTO:ACTIVITY:START -->
-
-- Jul 15, 2026: opened pull request [#95](https://github.com/wildanniam/Quorum) in [wildanniam/Quorum](https://github.com/wildanniam/Quorum).
-- Jul 15, 2026: created a branch in [wildanniam/Quorum](https://github.com/wildanniam/Quorum).
-- Jul 15, 2026: pushed 1 commit to [wildanniam/portofolio-wildan](https://github.com/wildanniam/portofolio-wildan).
-- Jul 15, 2026: pushed 1 commit to [wildanniam/Quorum](https://github.com/wildanniam/Quorum).
-- Jul 15, 2026: merged pull request [#94](https://github.com/wildanniam/Quorum) in [wildanniam/Quorum](https://github.com/wildanniam/Quorum).
-- Jul 15, 2026: closed issue [#93](https://github.com/wildanniam/Quorum/issues/93) in [wildanniam/Quorum](https://github.com/wildanniam/Quorum).
-<!-- AUTO:ACTIVITY:END -->
 
 ---
 
