@@ -1,8 +1,5 @@
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/ibnusab/ibnusab/main/assets/hero/agent-console-v5-dark.svg"
-    width="100%"
-    alt="Ibnu Sabrian Hero">
+  <img src="./assets/header.png" alt="Ibnu Sabrian - Web Builder and Android Developer" width="100%">
 </p>
 
 <p align="center">
@@ -56,8 +53,6 @@ My current north star is to build and study **trustworthy autonomous systems** t
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1E293B?style=flat-square&logo=postgresql&logoColor=93C5FD">
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-1E293B?style=flat-square&logo=playwright&logoColor=22C55E">
 </p>
-
-
 
 ---
 
