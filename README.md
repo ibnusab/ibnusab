@@ -1,17 +1,8 @@
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ibnusab/ibnusab/main/assets/hero/agent-console-v5-dark.svg">
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ibnusab/ibnusab/main/assets/hero/agent-console-v5-light.svg">
-
-    <img
-      alt="Ibnu Sabrian Hero"
-      src="https://raw.githubusercontent.com/ibnusab/ibnusab/main/assets/hero/agent-console-v5-dark.svg">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/ibnusab/ibnusab/main/assets/hero/agent-console-v5-dark.svg"
+    width="100%"
+    alt="Ibnu Sabrian Hero">
 </p>
 
 <p align="center">
