@@ -1,8 +1,7 @@
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ibnusab/ibnusab/main/assets/hero/agent-console-v5-dark.svg"
-    alt="Ibnu Sabrian Hero"
-    width="100%">
+src="https://github.com/ibnusab/ibnusab/blob/main/assets/hero/agent-console-v5-dark.svg?raw=1"
+width="100%">
 </p>
 
 <p align="center">
