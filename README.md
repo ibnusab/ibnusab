@@ -1,5 +1,18 @@
 <p align="center">
-  <img src="./assets/header.png" alt="Ibnu Sabrian - Web Builder and Android Developer" width="100%">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/hero/agent-console-v5-dark.svg">
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/hero/agent-console-v5-light.svg">
+
+    <img
+      src="./assets/hero/agent-console-v5-dark.svg"
+      alt="Ibnu Sabrian Hero"
+      width="100%">
+  </picture>
 </p>
 
 <p align="center">
