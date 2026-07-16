@@ -56,9 +56,8 @@
 <g clip-path="url(#portrait-clip)" class="ambient-map" aria-hidden="true">
   <rect x="24" y="82" width="470" height="438" fill="url(#portrait-grid)"/>
   <ellipse cx="268.4" cy="292.2" rx="228.4" ry="137.2" fill="url(#portrait-halo)"/>
-  <ellipse cx="268.4" cy="292.2" rx="211.5" ry="127.0" fill="none" stroke="#2563EB" stroke-width="1" stroke-dasharray="3 14" opacity="0.13">
-    <animateTransform attributeName="transform" type="rotate" from="0 268.4 292.2" to="360 268.4 292.2" dur="42s" repeatCount="indefinite"/>
-  </ellipse>
+  <g clip-path="url(#portrait-clip)"><image x="24" y="82" width="470" height="438" preserveAspectRatio="xMidYMin slice" href="../header.png"/></g>
+  <g clip-path="url(#system-line-0)"><text x="528" y="82" class="system-head"><tspan fill="#6D28D9">ibnu@agentlab</tspan><tspan fill="#64748B"> ------------------------------------------</tspan></text></g>
   <ellipse cx="268.4" cy="292.2" rx="169.2" ry="96.5" fill="none" stroke="#6D28D9" stroke-width="1" stroke-dasharray="28 24" opacity="0.1">
     <animateTransform attributeName="transform" type="rotate" from="360 268.4 292.2" to="0 268.4 292.2" dur="34s" repeatCount="indefinite"/>
   </ellipse>

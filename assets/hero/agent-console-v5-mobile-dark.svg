@@ -56,9 +56,8 @@
 <g clip-path="url(#portrait-clip)" class="ambient-map" aria-hidden="true">
   <rect x="58" y="122" width="604" height="312" fill="url(#portrait-grid)"/>
   <ellipse cx="360.0" cy="256.2" rx="267.5" ry="104.5" fill="url(#portrait-halo)"/>
-  <ellipse cx="360.0" cy="256.2" rx="247.6" ry="96.7" fill="none" stroke="#38BDF8" stroke-width="1" stroke-dasharray="3 14" opacity="0.13">
-    <animateTransform attributeName="transform" type="rotate" from="0 360.0 256.2" to="360 360.0 256.2" dur="42s" repeatCount="indefinite"/>
-  </ellipse>
+  <g clip-path="url(#portrait-clip)"><image x="58" y="122" width="604" height="312" preserveAspectRatio="xMidYMin slice" href="../header.png"/></g>
+  <ellipse cx="360.0" cy="256.2" rx="198.1" ry="73.5" fill="none" stroke="#7C3AED" stroke-width="1" stroke-dasharray="28 24" opacity="0.1">
   <ellipse cx="360.0" cy="256.2" rx="198.1" ry="73.5" fill="none" stroke="#7C3AED" stroke-width="1" stroke-dasharray="28 24" opacity="0.1">
     <animateTransform attributeName="transform" type="rotate" from="360 360.0 256.2" to="0 360.0 256.2" dur="34s" repeatCount="indefinite"/>
   </ellipse>
