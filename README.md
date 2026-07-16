@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="./assets/header.png" alt="Ibnu Sabrian - Web Builder and Android Developer" width="100%">
+  <img
+    src="https://raw.githubusercontent.com/ibnusab/ibnusab/main/assets/hero/agent-console-v5-dark.svg"
+    width="100%"
+    alt="Ibnu Sabrian Hero">
 </p>
 
 <p align="center">
