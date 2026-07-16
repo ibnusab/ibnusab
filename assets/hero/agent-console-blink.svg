@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" preserveAspectRatio="xMidYMid meet">
+  <!-- Combined wrapper that alternates between the dark and light hero variants using SMIL animation -->
+  <defs>
+    <style type="text/css"><![CDATA[
+      svg { background: transparent; }
+      image { width: 100%; height: 100%; }
+    ]]></style>
+  </defs>
+
+  <!-- Dark variant (visible first) -->
+  <image href="agent-console-v5-dark.svg" x="0" y="0" width="1200" height="700" opacity="1">
+    <animate attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite" />
+  </image>
+
+  <!-- Light variant (fades in when dark fades out) -->
+  <image href="agent-console-v5-light.svg" x="0" y="0" width="1200" height="700" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite" />
+  </image>
+</svg>
